@@ -20,6 +20,9 @@ module.exports = {
       instagram: `pfizer.brasil`,
     },
   },
+  flags: {
+    DEV_SSR: true
+  },
   plugins: [
     `gatsby-plugin-image`,
     {
