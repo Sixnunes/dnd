@@ -57,7 +57,6 @@ module.exports = {
             },
           },
           `gatsby-remark-prismjs`,
-          `gatsby-plugin-netlify-cms`
         ],
       },
     },
@@ -126,5 +125,6 @@ module.exports = {
         icon: `src/images/blog-icon.png`, // This path is relative to the root of the site.
       },
     },
+    `gatsby-plugin-netlify-cms`
   ],
 }
