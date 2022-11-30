@@ -16,7 +16,7 @@ module.exports = {
       summary: `brasileiro, farmacêutico wanna be formado pela Universidade Federal de Ouro Preto. Me siga`,
     },
     description: `Pharmaceutical, scientist and graphic design on free time. Welcome to my blog!`,
-    siteUrl: `https://danielndourado.com/dnd`,
+    siteUrl: `https://www.danielndourado.com/dnd`,
     social: {
       instagram: `pfizer.brasil`,
     },
